@@ -8,8 +8,10 @@
 
 **Objetivos Específicos:**
 
-* Explicar como funciona el método de la corriente de malla mediante la utilización de la LVK.
+* Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
 
-* Comprobar los valores de las corrientes obtenidas teóricamente en los métodos de análisis con datos experimentales.
+* Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
+
+* Conocer el comportamiento de la corriente dentro de diferentes mallas y como esta interactúa con los componentes que integran dichas mallas.
 
 # 2. MARCO TEÓRICO

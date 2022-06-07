@@ -37,16 +37,20 @@ Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resu
 **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
-![image](https://user-images.githubusercontent.com/105617383/172299078-dc4bef65-6e59-4591-89b0-0994b1ebb97f.png)
 
-![image](https://user-images.githubusercontent.com/105617383/172299092-f731b053-f173-40db-8656-6dd844b1f081.png)
-
+![image](https://user-images.githubusercontent.com/105671763/172299074-62b31e4c-983e-43be-955a-4ce21ccf3c11.png)
 
 
+![image](https://user-images.githubusercontent.com/105671763/172299032-5062d924-cff6-4252-9a95-03a773f217aa.png)
 
 
 
-# .CONCLUSIONES
+
+# 4.CONCLUSIONES
+
+https://youtu.be/5KWGB4IcJ8g
+
+# 5.CONCLUSIONES
 
 * Con la utilización del Método de Corrientes de Mallas se obtienen los resultados análiticos que se comprueban con el simulador que son iguales, es decir, no tiene porcentaje de error.
 

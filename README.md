@@ -41,6 +41,8 @@ valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
 
 
+
+
 # .CONCLUSIONES
 
 * Con la utilización del Método de Corrientes de Mallas se obtienen los resultados análiticos que se comprueban con el simulador que son iguales, es decir, no tiene porcentaje de error.

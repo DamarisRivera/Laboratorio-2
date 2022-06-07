@@ -40,7 +40,7 @@ valores de las corrientes de malla. Anote los resultados en la tabla.**
 
 ![image](https://user-images.githubusercontent.com/105617383/172299572-6b9826c3-3fb4-4505-8c3b-965cb7fe0bda.png)
 
-**2.5.3. Circuito en físico, el circuito de la figura 2.1, obteniendo los
+**2.5.3. Circuito en físico, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla.**
 
 ![image](https://user-images.githubusercontent.com/105671763/172379129-3530f5d0-bef3-45c2-84ff-5d157cd884c6.png)

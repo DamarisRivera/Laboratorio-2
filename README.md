@@ -2,7 +2,7 @@
 
 # 1. OBJETIVOS
 
-**Objetivo General:***
+**Objetivo General:**
 
 * Realizar una simulacion de un circuito y comprobar los resultados de análisis de mallas.
 

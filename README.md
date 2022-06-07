@@ -35,22 +35,27 @@ Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resu
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
-valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
+valores de las corrientes de malla. Anote los resultados en la tabla.**
 ![image](https://user-images.githubusercontent.com/105617383/172299555-6ac916f5-b016-4897-8432-74665baddb72.png)
 
 ![image](https://user-images.githubusercontent.com/105617383/172299572-6b9826c3-3fb4-4505-8c3b-965cb7fe0bda.png)
 
+**2.5.3. Circuito en físico, el circuito de la figura 2.1, obteniendo los
+valores de las corrientes de malla. Anote los resultados en la tabla.**
+
+![image](https://user-images.githubusercontent.com/105671763/172379129-3530f5d0-bef3-45c2-84ff-5d157cd884c6.png)
+
 ![image](https://user-images.githubusercontent.com/105671763/172299074-62b31e4c-983e-43be-955a-4ce21ccf3c11.png)
-
-
-![image](https://user-images.githubusercontent.com/105671763/172299032-5062d924-cff6-4252-9a95-03a773f217aa.png)
-
-
-![image](https://user-images.githubusercontent.com/105671763/172299240-45eaa407-b59e-407f-9dbd-8a3321ddd28e.png)
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
-# 4.CONCLUSIONES
+![image](https://user-images.githubusercontent.com/105671763/172299032-5062d924-cff6-4252-9a95-03a773f217aa.png)
+
+![image](https://user-images.githubusercontent.com/105671763/172299240-45eaa407-b59e-407f-9dbd-8a3321ddd28e.png)
+
+Observando las dos tablas de error, se muestra el porcentaje de error.
+
+# 4.VIDEO
 
 https://youtu.be/5KWGB4IcJ8g
 

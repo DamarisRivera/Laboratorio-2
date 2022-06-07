@@ -12,4 +12,4 @@
 
 * Comprobar los valores de las corrientes obtenidas teóricamente en los métodos de análisis con datos experimentales.
 
-MARCO TEÓRICO
+# 2. MARCO TEÓRICO

@@ -45,6 +45,6 @@
 
 https://youtu.be/5KWGB4IcJ8g
 
-# 7.Bibliografía
+# 7.BIBLIOGRAFIA
 
 Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.

@@ -20,22 +20,28 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+**2.5.2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.**
+
+En el siguiente circuito mixto lo primero que se va a hacer es identificar las corrientes que pasan por cada una de las tres mallas. 
+
 ![image](https://user-images.githubusercontent.com/105617383/172277057-8a271d54-8e37-4a1d-8e91-f65f7fffc9f3.png)
+
+A continuación se va a hacer los calculos utilizando la ley de voltajes de Kirchoff para hallar las tres corrientes.
+
+![image](https://user-images.githubusercontent.com/105617383/172297183-2950da60-350c-467c-891d-37fc0691d522.png)
+
+Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resuelve estos problemas.
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+**2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
+valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
-![image](https://user-images.githubusercontent.com/105671763/172297228-f825e41a-f256-4322-ad02-be6640072d3c.png)
 
-![image](https://user-images.githubusercontent.com/105671763/172297256-05e6ebde-3f7d-4d2c-9960-4f93b2238bb4.png)
 
-![image](https://user-images.githubusercontent.com/105671763/172297407-12589682-0ec4-41a3-a699-9d04423abe5f.png)
 
-# 5.VIDEO
 
-https://youtu.be/5KWGB4IcJ8g
-
-# 6.CONCLUSIONES
+# .CONCLUSIONES
 
 * Con la utilización del Método de Corrientes de Mallas se obtienen los resultados análiticos que se comprueban con el simulador que son iguales, es decir, no tiene porcentaje de error.
 
@@ -43,6 +49,6 @@ https://youtu.be/5KWGB4IcJ8g
 
 * La corriente dentro de cada malla actúa distino sobre los componentes, cuando dos corrientes cruzan por un resistor estas dos se restaran y así podremos calcular el valor del voltaje en ese elemento, mientras que, cuando se encuentran los resistores en una sola malla solo pasa una corriente por ella.
 
-# 7.BIBLIOGRAFIA
+# 6.Bibliografía
 
 Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.

@@ -67,6 +67,6 @@ https://youtu.be/5KWGB4IcJ8g
 
 * La corriente dentro de cada malla actúa distino sobre los componentes, cuando dos corrientes cruzan por un resistor estas dos se restaran y así podremos calcular el valor del voltaje en ese elemento, mientras que, cuando se encuentran los resistores en una sola malla solo pasa una corriente por ella.
 
-# 6.Bibliografía
+# 6.BIBLIOGRAFÍA
 
 Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.

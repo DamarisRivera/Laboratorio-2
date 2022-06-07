@@ -36,13 +36,12 @@ Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resu
 
 **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla.**
+![image](https://user-images.githubusercontent.com/105671763/172301787-63cf6f60-57aa-4c44-9edf-a9e1befc0d12.png)
 
 **2.5.4. Circuito físico, el circuito de la figura 2.1, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla.**
 ![image](https://user-images.githubusercontent.com/105671763/172302553-160a582e-5668-4d76-83e7-3793e29d3124.png)
 
-
-![image](https://user-images.githubusercontent.com/105671763/172301787-63cf6f60-57aa-4c44-9edf-a9e1befc0d12.png)
 
 ![image](https://user-images.githubusercontent.com/105671763/172299074-62b31e4c-983e-43be-955a-4ce21ccf3c11.png)
 

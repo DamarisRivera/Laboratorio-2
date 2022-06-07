@@ -24,4 +24,19 @@
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-![image](https://user-images.githubusercontent.com/105617383/172290942-c7e3cb6f-0f8b-4004-9318-c1562472509d.png)
+
+
+
+
+
+# .CONCLUSIONES
+
+* Con la utilización del Método de Corrientes de Mallas se obtienen los resultados análiticos que se comprueban con el simulador que son iguales, es decir, no tiene porcentaje de error.
+
+* De acuerdo a la tabla realizada donde se muestra el porcentaje de error obtenido entre los tres cálculos, se observa un error mínimo entre los datos simulados y los datos experimentales, ya que, al ser un circuito físico, presentan más décimales de los pensados, causando un porcentaje de error.
+
+* La corriente dentro de cada malla actúa distino sobre los componentes, cuando dos corrientes cruzan por un resistor estas dos se restaran y así podremos calcular el valor del voltaje en ese elemento, mientras que, cuando se encuentran los resistores en una sola malla solo pasa una corriente por ella.
+
+# 6.Bibliografía
+
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.

@@ -37,18 +37,17 @@ Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resu
 **2.5.3. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
-
 ![image](https://user-images.githubusercontent.com/105671763/172299074-62b31e4c-983e-43be-955a-4ce21ccf3c11.png)
-
-
-![image](https://user-images.githubusercontent.com/105671763/172299032-5062d924-cff6-4252-9a95-03a773f217aa.png)
-
-
-![image](https://user-images.githubusercontent.com/105671763/172299240-45eaa407-b59e-407f-9dbd-8a3321ddd28e.png)
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
-# 4.CONCLUSIONES
+![image](https://user-images.githubusercontent.com/105671763/172299032-5062d924-cff6-4252-9a95-03a773f217aa.png)
+
+![image](https://user-images.githubusercontent.com/105671763/172299240-45eaa407-b59e-407f-9dbd-8a3321ddd28e.png)
+
+El porcentaje de error obtenido en las dos tablas se da porque se esta comparando valores reales con valores simulados y calculados.
+
+# 4.VIDEO
 
 https://youtu.be/5KWGB4IcJ8g
 

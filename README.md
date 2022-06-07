@@ -53,7 +53,7 @@ valores de las corrientes de malla. Anote los resultados en la tabla.**
 
 ![image](https://user-images.githubusercontent.com/105671763/172299240-45eaa407-b59e-407f-9dbd-8a3321ddd28e.png)
 
-Observando las dos tablas de error, se muestra el porcentaje de error.
+Se observa un error mínimo entre los datos simulados y los datos experimentales, ya que, al ser un circuito físico, presentan más décimales de los pensados, causando un porcentaje de error.
 
 # 4.VIDEO
 

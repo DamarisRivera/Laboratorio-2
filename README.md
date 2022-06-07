@@ -38,13 +38,7 @@ Se resuelve el sistema de ecuaciones reemplazando en una aplicacion web que resu
 valores de las corrientes de malla. Anote los resultados en la tabla.**
 ![image](https://user-images.githubusercontent.com/105617383/172299555-6ac916f5-b016-4897-8432-74665baddb72.png)
 
-I1 = 2.9 mA
-
-I2 = 1.15 mA
-
-I3 = 6.32 mA
-
-![image](https://user-images.githubusercontent.com/105617383/172299572-6b9826c3-3fb4-4505-8c3b-965cb7fe0bda.png)
+![image](https://user-images.githubusercontent.com/105671763/172381747-be35886d-33cf-4056-832b-4246569b62f2.png)
 
 **2.5.3. Circuito en físico, obteniendo los
 valores de las corrientes de malla. Anote los resultados en la tabla.**

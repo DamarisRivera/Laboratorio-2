@@ -15,3 +15,5 @@
 * Conocer el comportamiento de la corriente dentro de diferentes mallas y como esta interactúa con los componentes que integran dichas mallas.
 
 # 2. MARCO TEÓRICO
+
+![image](https://user-images.githubusercontent.com/105617383/172276472-dfbc40c3-2c05-40a9-a893-73f78daa0b8a.png)

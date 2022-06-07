@@ -46,6 +46,7 @@ valores de las corrientes de malla. Anote los resultados en la tabla 2.1.**
 
 ![image](https://user-images.githubusercontent.com/105671763/172299240-45eaa407-b59e-407f-9dbd-8a3321ddd28e.png)
 
+**2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
 
 # 4.CONCLUSIONES
 

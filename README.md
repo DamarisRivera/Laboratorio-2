@@ -45,6 +45,10 @@ valores de las corrientes de malla. Anote los resultados en la tabla.**
 
 ![image](https://user-images.githubusercontent.com/105671763/172379129-3530f5d0-bef3-45c2-84ff-5d157cd884c6.png)
 
+I1 = 2.9 mA
+I2 = 1.15 mA
+I3 = 6.32 mA
+
 ![image](https://user-images.githubusercontent.com/105671763/172299074-62b31e4c-983e-43be-955a-4ce21ccf3c11.png)
 
 **2.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
